@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<flocking>
+  <random_seed>789748</random_seed>
+  <num_particles>127</num_particles>
+</flocking>
